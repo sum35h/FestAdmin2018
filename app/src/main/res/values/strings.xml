@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FestAdmin18</string>
+    <string name="title">Title</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_activity_eeeee">eeeee</string>
+    <string name="title_activity_event">Event</string>
+</resources>
